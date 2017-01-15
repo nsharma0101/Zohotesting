@@ -7,3 +7,5 @@ I am commiting from develop...
 testing pull again
 
 working on feature branch
+
+closing feature
